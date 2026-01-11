@@ -1,0 +1,1 @@
+This is a collection of tutorials for broadcast engineers, operators, technicians, and those in between. They are licensed under BSD-3, inlcuding (especially) any code that is explicity written by me (Eleanor Heaton).
